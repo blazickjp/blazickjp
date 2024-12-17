@@ -10,28 +10,21 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Quantum+Computing+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<!-- GitHub Stats Section -->
-<details> 
-  <summary><h2>📊 GitHub Stats</h2></summary>
-  <div align="center">
-    <img alt="blazickjp's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blazickjp&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    <img alt="blazickjp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazickjp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    <br/>
-    <img alt="blazickjp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=blazickjp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </div>
-</details>
+📊 GitHub Stats
+<div align="center">
+  <img alt="blazickjp's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blazickjp&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="blazickjp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazickjp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <br/>
+  <img alt="blazickjp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=blazickjp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</div>
+🔥 Contribution Streak
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="blazickjp's streak" src="https://streak-stats.demolab.com/?user=blazickjp&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
-<!-- Current Projects Section -->
-<details>
-  <summary><h2>🚀 Current Projects</h2></summary>
-  
-  <p align="left">
-    <a href="https://github.com/blazickjp/quantum_net"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=blazickjp&repo=quantum_net&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="quantum_net"></a>
-    <!-- Add more project cards as needed -->
-  </p>
 
-  <a href="https://github.com/blazickjp?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 <!-- Skills Section -->
 <details> 
@@ -70,21 +63,3 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-<!-- Contribution Streak Section -->
-<details>
-  <summary><h2>🔥 Contribution Streak</h2></summary>
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="blazickjp's streak" src="https://streak-stats.demolab.com/?user=blazickjp&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-</details>
-
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/joseph-blazick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-blazick" height="30" width="40" /></a>
-  <a href="https://kaggle.com/jblazick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jblazick" height="30" width="40" /></a>
-</p>
