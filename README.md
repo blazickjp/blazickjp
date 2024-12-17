@@ -7,17 +7,16 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Quantum+Computing+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=ML+Engineering;AI+Engineering;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-📊 GitHub Stats
 <div align="center">
   <img alt="blazickjp's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blazickjp&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="blazickjp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazickjp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
   <img alt="blazickjp's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=blazickjp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </div>
-🔥 Contribution Streak
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="blazickjp's streak" src="https://streak-stats.demolab.com/?user=blazickjp&theme=monokai-metallian&hide_border=true"/>
